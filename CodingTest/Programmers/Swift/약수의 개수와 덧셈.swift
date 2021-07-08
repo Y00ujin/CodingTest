@@ -1,4 +1,4 @@
-
+// 약수읙 개수와 덧셈
 
 func solution(_ left: Int, right: Int) -> Int {
 
